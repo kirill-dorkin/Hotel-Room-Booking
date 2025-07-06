@@ -120,7 +120,7 @@ h5 {
 
 .container-main {
   width: 60%;
-  margin: 0 0 0 200px;
+  margin: 0 auto;
   padding-top: 190px;
 }
 
@@ -130,7 +130,7 @@ h5 {
 
 .main-contents {
   display: flex;
-  height: 700px;
+  min-height: 100vh;
 }
 
 .main-text {

@@ -177,8 +177,8 @@
     }
 
     .container-main {
-        width: 60%;
-        margin: 0 0 0 100px;
+        width: 70%;
+        margin: 0 auto;
         padding-top: 170px;
     }
 
@@ -299,12 +299,12 @@
     }
 
     .main-contents {
-        height: 600px;
+        min-height: 100vh;
     }
 
     .container-main {
-        width: 80%;
-        margin: 0 0 0 50px;
+        width: 90%;
+        margin: 0 auto;
         padding-top: 100px;
     }
 
