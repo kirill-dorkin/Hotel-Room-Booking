@@ -1,5 +1,5 @@
-# hotel-landing-page
+# issyk-kul-camp-landing
 
-Simple Rayal Park Hotels landing page with HTML and CSS
+Простой одностраничный сайт для аренды палаток на берегу озера Иссык-Куль. Верстка выполнена на HTML и CSS.
 
-design from https://dribbble.com/shots/15577836-Hotel-Room-Booking-landing-page with a modification
+Дизайн основан на макете [Hotel Room Booking](https://dribbble.com/shots/15577836-Hotel-Room-Booking-landing-page) с некоторыми изменениями.
